@@ -12,5 +12,12 @@ Build a Social Media platform for undergraduate students for career counselling 
 
 2. Method-2 : 
 
+## The Team :
+
+1. Bhandar Nirupam Reddy
+2. Siddhant Yadav
+3. Mallika Asthana
+4. Sai Praneet Reddy Chinthala
+5. Amaan Sajid Shaik
 
 
