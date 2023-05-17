@@ -10,9 +10,9 @@ Build a Social Media platform for undergraduate students for career counselling 
 
 1. Method-1 : https://drive.google.com/drive/folders/1dvuuOz6I17dBKMc54LNrNGOW9eJ9DO70
 
-2. Method-2 : 
+2. Method-2 : https://drive.google.com/file/d/1c3K8VTMNqx96qhMczEsfwn6mblnR0oHf/view?usp=sharing 
 
-## The Team :
+## The Team
 
 1. Bhandar Nirupam Reddy
 2. Siddhant Yadav
